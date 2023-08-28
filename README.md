@@ -7,6 +7,7 @@ Digital resume built using python and <a href="https://www.youtube.com/watch?v=0
 
 ## Changes made:
 
+- In resume_demo/url have changed url path to use re_path(r'^media/(?P<path>.*) as django.conf.urls.url() has become deccripted 
 
 
 
