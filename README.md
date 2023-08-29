@@ -22,3 +22,5 @@ Original repos:
 - https://github.com/bobby-didcoding/didcoding_resume_template
 
 https://www.toptal.com/developers/gitignore/
+
+https://stackoverflow.com/questions/70319606/importerror-cannot-import-name-url-from-django-conf-urls-after-upgrading-to
